@@ -1,0 +1,32 @@
+.nav_head{
+    background-color: black;
+}
+.home_page{
+    background-color: black;
+    margin:20px;
+    display:none;
+}
+.team_page{
+    background-color: black;
+    margin:20px;
+    display:block;
+}
+h3{
+    margin:20px;
+}
+div{
+    padding:10px;
+    color:white;
+}
+.carousel_size{
+    margin:auto;
+    width:700px;
+    height:700px;
+}
+li::marker{
+    font-size:0px;
+}
+.main_team_body{
+    margin:10px;
+    width:100%;
+}
