@@ -1,18 +1,26 @@
+body{
+    background-color: crimson;
+    font-size:large;
+}
 .nav_head{
     background-color: black;
 }
 #home_page{
     background-color: black;
     margin:20px;
-    /* display:none; */
 }
 #team_page{
     background-color: black;
     margin:20px;
-    /* display:block; */
 }
 h3{
     margin:20px;
+}
+.shrink_nav{
+    padding:0px;
+}
+nav{
+    border:10px;
 }
 div{
     padding:10px;
@@ -29,4 +37,17 @@ li::marker{
 .main_team_body{
     margin:10px;
     width:100%;
+}
+.color_selection{
+    background-color: brown;
+}
+#home_btn{
+    margin-right:20px;
+    border:0px;
+}
+#home_btn:hover{
+    border:5px;
+}
+#teams_btn{
+    border:0px;
 }
