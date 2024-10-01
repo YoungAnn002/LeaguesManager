@@ -1,15 +1,15 @@
 .nav_head{
     background-color: black;
 }
-.home_page{
+#home_page{
     background-color: black;
     margin:20px;
-    display:none;
+    /* display:none; */
 }
-.team_page{
+#team_page{
     background-color: black;
     margin:20px;
-    display:block;
+    /* display:block; */
 }
 h3{
     margin:20px;
